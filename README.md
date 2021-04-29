@@ -2,7 +2,9 @@
   <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
+<img src=".github/capa.png" alt="Capa">
 
+## Tecnologias usadas durante o desenvolvimento
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
@@ -20,3 +22,4 @@ $ yarn server
 # Run the web server
 $ yarn dev
 ```
+<p> Desenvolvido durante o NLW 5 </p>
