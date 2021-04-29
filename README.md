@@ -2,6 +2,7 @@
   <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
+<br>
 <p>
   O podcast <strong>< Fala Dev ></strong> agora em uma plataforma exclusiva. Orgulhosamente desenvolvido durante a NLW 5
 </p>
@@ -27,4 +28,23 @@ $ yarn server
 # Run the web server
 $ yarn dev
 ```
+
 <p> Desenvolvido durante o NLW 5 </p>
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/gustavo-mendes-00661318b/">
+        <img src="https://avatars.githubusercontent.com/u/71361227?v=4" width="100px;" alt="Gustavo Mendes"/><br>
+        <sub>
+          <b>Gustavo Mendes</b>
+        </sub>
+      </a>
+    </td>
+
+  </tr>
+</table>
+
+### This repository has a MIT License
