@@ -2,6 +2,11 @@
   <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
 </div>
 
+<p>
+  O podcast <strong>< Fala Dev ></strong> agora em uma plataforma exclusiva. Orgulhosamente desenvolvido durante a NLW 5
+</p>
+<br><br>
+
 <img src=".github/capa.png" alt="Capa">
 
 ## Tecnologias usadas durante o desenvolvimento
