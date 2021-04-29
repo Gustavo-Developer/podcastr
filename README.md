@@ -43,7 +43,9 @@ $ yarn dev
         </sub>
       </a>
     </td>
+  </tr>
 
+  <tr>
      <td align="center">
       <a href="https://avatars.githubusercontent.com/u/2254731?v=4">
         <img src="https://avatars.githubusercontent.com/u/71361227?v=4" width="100px;" alt="Gustavo Mendes"/><br>
@@ -52,9 +54,9 @@ $ yarn dev
         </sub>
       </a>
     </td>
-
-
   </tr>
+
+  
 </table>
 
 ### Esse repositório tem uma licença MIT
